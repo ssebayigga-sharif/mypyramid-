@@ -1,0 +1,50 @@
+.one {
+  height: 50px;
+  width: 300px;
+  background-color: black;
+  margin: auto;
+}
+body {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.two {
+    height: 50px;
+    width: 400px;
+    background-color: rgb(17, 16, 16);
+    margin: auto;
+}
+.three {
+    height: 50px;
+  width: 500px;
+  background-color: black;
+  margin: auto;
+}
+.four {
+    height: 50px;
+  width: 600px;
+  background-color: black;
+  margin: auto;
+}
+.five {
+    height: 50px;
+  width: 700px;
+  background-color: black;
+  margin: auto;
+}
+.six{
+    height: 50px;
+  width: 800px;
+  background-color: black;
+  margin: auto;
+}
+
+button {
+    background-color: aqua;
+    margin: auto;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 30px;
+    font-weight: bolder;
+}
