@@ -41,10 +41,11 @@ body {
 }
 
 button {
-    background-color: aqua;
+    background-color: #0d0e0e;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 15px;
     margin: 50px;
-    padding: 30px;
+    padding: 10px;
     font-weight: bolder;
+    color: white;
 }
